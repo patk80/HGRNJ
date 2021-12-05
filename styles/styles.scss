@@ -1,5 +1,14 @@
 #hero-section {
-    background-color: tan;
+    background-image: url("../img/boonton-new-jersey-sunrise.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 // @import "./styles.css"
